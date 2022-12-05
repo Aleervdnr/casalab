@@ -4,7 +4,7 @@ import aboutImg from "../../img/about.jpg"
 
 export default function About() {
   return (
-    <section className="about">
+    <section className="about" id='about'>
       <div className="container-about container">
 
       <img src={aboutImg} alt="chica trabajando en casalab" className='about-img' />

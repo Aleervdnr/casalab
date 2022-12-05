@@ -4,7 +4,7 @@ import serviciosImg from "../../img/servicios-img.jpg"
 
 export default function Servicios() {
   return (
-    <section className='servicios'>
+    <section className='servicios' id='servicios'>
       <div className="container-servicios">
         <div className="servicios_box1">
           <h3 className='servicios-title'>Consulta por tu espacio de trabajo</h3>
