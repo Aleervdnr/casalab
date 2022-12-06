@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/casalab/static/css/main.1145f99c.css",
-    "main.js": "/casalab/static/js/main.8ab99155.js",
+    "main.css": "/casalab/static/css/main.515fc3a0.css",
+    "main.js": "/casalab/static/js/main.65ce33a3.js",
     "static/media/servicios-img.jpg": "/casalab/static/media/servicios-img.ee89bbeef96d1ef90723.jpg",
     "static/media/about.jpg": "/casalab/static/media/about.c9b18256b96463c055c2.jpg",
     "static/media/logo-hero.jpg": "/casalab/static/media/logo-hero.f9ffaba8a3d14207bf77.jpg",
     "index.html": "/casalab/index.html",
-    "main.1145f99c.css.map": "/casalab/static/css/main.1145f99c.css.map",
-    "main.8ab99155.js.map": "/casalab/static/js/main.8ab99155.js.map"
+    "main.515fc3a0.css.map": "/casalab/static/css/main.515fc3a0.css.map",
+    "main.65ce33a3.js.map": "/casalab/static/js/main.65ce33a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1145f99c.css",
-    "static/js/main.8ab99155.js"
+    "static/css/main.515fc3a0.css",
+    "static/js/main.65ce33a3.js"
   ]
 }
