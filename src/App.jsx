@@ -27,7 +27,7 @@ function App() {
       <Servicios/>
 
       <section className="cta">
-        <p className="cta_p">Estas a un paso de tener tu oficina el pleno centro</p>
+        <p className="cta_p">Estas a un paso de tener tu oficina en pleno centro</p>
         <a href="#" className="cta_link">Reservar</a>
       </section>
 
