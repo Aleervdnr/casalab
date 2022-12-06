@@ -37,7 +37,7 @@ export default function Header() {
             <a href='#servicios' className='nav_link'>Servicios</a>
           </li>
           <li className="nav_item">
-            <a href='#info' className='nav_link'>Contacto</a>
+            <a href='#contacto' className='nav_link'>Contacto</a>
           </li>
         </ul>
         <h1 className="nav_title">CasaLab</h1>

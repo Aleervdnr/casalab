@@ -1,9 +1,10 @@
 @import "./variables-css.css";
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
 
 *{
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
 }
 
 body{
@@ -87,6 +88,69 @@ body{
   margin: 0 auto;
 }
 
+.cta{
+  background-color: var(--fondo2);
+  padding: 0 22px 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.cta_p{
+  font-size: 26px;
+  font-weight: 600;
+  max-width: 400px;
+  text-transform: capitalize;
+}
+
+.cta_link{
+  background-color: var(--fondo);
+  color: white;
+  padding: 15px 45px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  text-decoration: none;
+}
+
+.contacto{
+  background-color: var(--fondo2);
+  padding: 80px 22px;
+}
+
+.container-contacto{
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacto-text{
+  font-size: 14px;
+}
+
+.contacto_title{
+  position: relative;
+}
+
+.contacto_title::after{
+  content: "";
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: var(--fondo);
+}
+
+.redes{
+  display: flex;
+  flex-direction: column;
+}
+
+.contacto-link{
+  font-size: 14px;
+  color: black;
+  margin: 5px 0;
+}
+
 @media (max-width:767px){
   .hero{
     display:flex;
@@ -99,5 +163,13 @@ body{
 
   .hero_img{
     width: 100%;
+  }
+
+  .container-contacto{
+    flex-direction: column;
+  }
+
+  .contacto_title{
+    width: fit-content;
   }
 }
