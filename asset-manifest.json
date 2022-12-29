@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/casalab/static/css/main.515fc3a0.css",
+    "main.css": "/casalab/static/css/main.de954c30.css",
     "main.js": "/casalab/static/js/main.246f0200.js",
+    "static/media/img3.jpg": "/casalab/static/media/img3.162dca0e1c558b5b58e0.jpg",
     "static/media/servicios-img.jpg": "/casalab/static/media/servicios-img.ee89bbeef96d1ef90723.jpg",
+    "static/media/img4.jpg": "/casalab/static/media/img4.8b15704969212c88066e.jpg",
     "static/media/about.jpg": "/casalab/static/media/about.c9b18256b96463c055c2.jpg",
     "static/media/logo-hero.jpg": "/casalab/static/media/logo-hero.f9ffaba8a3d14207bf77.jpg",
+    "static/media/img2.jpg": "/casalab/static/media/img2.c820c667c05bad29f98b.jpg",
     "index.html": "/casalab/index.html",
-    "main.515fc3a0.css.map": "/casalab/static/css/main.515fc3a0.css.map",
+    "main.de954c30.css.map": "/casalab/static/css/main.de954c30.css.map",
     "main.246f0200.js.map": "/casalab/static/js/main.246f0200.js.map"
   },
   "entrypoints": [
-    "static/css/main.515fc3a0.css",
+    "static/css/main.de954c30.css",
     "static/js/main.246f0200.js"
   ]
 }
